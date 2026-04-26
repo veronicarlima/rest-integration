@@ -4,7 +4,7 @@ Objective of this project to represents a Sample project, that you can use just 
 
 #### This project envolving the simple concepts such as : 
 
--
+- CSV read files, properties configuration
 
 #### You can find dependencys:
 
